@@ -1,6 +1,9 @@
 body{
-    background-color: rgb(222, 212, 212);
+    background-color: rgb(241, 233, 233);
 }
 h1{
-    background-color: lightblue;
+    background-color: rgb(76, 66, 183);
+}
+h2{
+    background-color: rgb(76, 66, 183);
 }
